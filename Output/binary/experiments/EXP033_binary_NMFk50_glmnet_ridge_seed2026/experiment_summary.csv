@@ -1,4 +1,0 @@
-"experiment_id","task_type","categorical_scheme","feature_method","n_components","model_backend","glmnet_alpha","seed","rho","label_strength","mcem_samples","model","aggregation","n_patients","n_early","n_advanced","auroc","multiclass_logloss","accuracy","balanced_accuracy","macro_f1","metric_name","metric_value"
-"EXP033_binary_NMFk50_glmnet_ridge_seed2026","binary",NA,"NMF",50,"glmnet",0,2026,0.7,NA,30,"Deterministic EM-MMIL","median_prob",11,5,6,0.966666666666667,NA,NA,NA,NA,"auroc",0.966666666666667
-"EXP033_binary_NMFk50_glmnet_ridge_seed2026","binary",NA,"NMF",50,"glmnet",0,2026,0.7,NA,30,"MCEM-MMIL","median_prob",11,5,6,0.966666666666667,NA,NA,NA,NA,"auroc",0.966666666666667
-"EXP033_binary_NMFk50_glmnet_ridge_seed2026","binary",NA,"NMF",50,"glmnet",0,2026,0.7,NA,30,"Naive inherited-label classifier","mean_prob",11,5,6,1,NA,NA,NA,NA,"auroc",1
