@@ -1,0 +1,4 @@
+"split","model","aggregation","n_patients","n_early","n_advanced","auroc"
+"test","Deterministic EM-MMIL","prop_gt_0.9",11,5,6,0.9
+"test","MCEM-MMIL","prop_gt_0.5",11,5,6,0.933333333333333
+"test","Naive inherited-label classifier","prop_gt_0.5",11,5,6,1
