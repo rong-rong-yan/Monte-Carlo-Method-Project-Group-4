@@ -1,0 +1,41 @@
+experiment_id: EXP015_binary_ICAk10_glmnet_lasso_seed2026
+task_type: binary
+categorical_scheme: three_stage
+class_levels:
+- I
+- II_III
+- IV
+proj_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4
+in_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input
+out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output
+task_out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output/binary
+experiment_out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output/binary/experiments/EXP015_binary_ICAk10_glmnet_lasso_seed2026
+expr_file: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input/GSE131907_pilot_expression_subset_dt.rds
+meta_file: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input/GSE131907_pilot_sampled_cell_metadata_with_clinical.csv
+seed: 2026
+test_fraction: 0.25
+feature_method: ICA
+n_components: 10
+min_cell_fraction: 0.01
+n_hvg: 2000
+scale_factor: 10000
+nmf_method: brunet
+nmf_nrun: 1
+rho: 0.7
+label_strength: 0.7
+max_iter: 30
+tol: 0.0001
+mcem_samples: 30
+save_plots: yes
+model_backend: glmnet
+glmnet_alpha: 1
+backend_config:
+  model_name: glmnet_lasso
+  backend: glmnet
+  glmnet_alpha: 1
+  lambda_choice: lambda.min
+  reuse_lambda: yes
+  nfolds: 5
+  type_measure: deviance
+  standardize: yes
+  maxit: 1000000

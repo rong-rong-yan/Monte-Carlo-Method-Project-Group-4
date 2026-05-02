@@ -1,0 +1,38 @@
+project:
+  proj_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4
+  in_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input
+  out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output
+  expr_file: GSE131907_pilot_expression_subset_dt.rds
+  meta_file: GSE131907_pilot_sampled_cell_metadata_with_clinical.csv
+experiment:
+  experiment_id: EXP044_categorical_three_stage_ICAk20_xgboost_seed2026
+  task_type: categorical
+  categorical_scheme: three_stage
+  feature_method: ICA
+  n_components: 20
+  seed: 2026
+  test_fraction: 0.25
+  min_cell_fraction: 0.01
+  n_hvg: 2000
+  scale_factor: 10000
+  nmf_method: brunet
+  nmf_nrun: 1
+  rho: 0.7
+  label_strength: 0.7
+  max_iter: 30
+  tol: 0.0001
+  mcem_samples: 30
+  save_plots: yes
+backend:
+  model_name: xgboost
+  backend: xgboost
+  eta: 0.05
+  max_depth: 3
+  min_child_weight: 1
+  subsample: 0.8
+  colsample_bytree: 0.8
+  xgb_lambda: 1
+  xgb_alpha: 0
+  nrounds: 100
+  nthread: 2
+  verbose: 0

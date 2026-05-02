@@ -1,0 +1,4 @@
+model_short,1st,2nd,3rd,total_configs,pct_first
+EM-MMIL,15,18,3,36,41.7
+MCEM-MMIL,14,17,5,36,38.9
+Naive,35,1,0,36,97.2

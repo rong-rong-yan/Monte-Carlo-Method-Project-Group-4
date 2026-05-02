@@ -1,0 +1,44 @@
+experiment_id: EXP008_categorical_three_stage_PCAk10_xgboost_seed2026
+task_type: categorical
+categorical_scheme: three_stage
+class_levels:
+- I
+- II_III
+- IV
+proj_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4
+in_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input
+out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output
+task_out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output/categorical
+experiment_out_dir: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output/categorical/experiments/EXP008_categorical_three_stage_PCAk10_xgboost_seed2026
+expr_file: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input/GSE131907_pilot_expression_subset_dt.rds
+meta_file: D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input/GSE131907_pilot_sampled_cell_metadata_with_clinical.csv
+seed: 2026
+test_fraction: 0.25
+feature_method: PCA
+n_components: 10
+min_cell_fraction: 0.01
+n_hvg: 2000
+scale_factor: 10000
+nmf_method: brunet
+nmf_nrun: 1
+rho: 0.7
+label_strength: 0.7
+max_iter: 30
+tol: 0.0001
+mcem_samples: 30
+save_plots: yes
+model_backend: xgboost
+glmnet_alpha: .na.real
+backend_config:
+  model_name: xgboost
+  backend: xgboost
+  eta: 0.05
+  max_depth: 3
+  min_child_weight: 1
+  subsample: 0.8
+  colsample_bytree: 0.8
+  xgb_lambda: 1
+  xgb_alpha: 0
+  nrounds: 100
+  nthread: 2
+  verbose: 0

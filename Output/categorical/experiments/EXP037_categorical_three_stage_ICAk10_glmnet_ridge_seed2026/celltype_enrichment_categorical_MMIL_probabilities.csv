@@ -1,0 +1,487 @@
+"split","model","Stage_cat","Cell_type","class","n_cells","mean_prob","q90_prob"
+"test","Categorical EM-MMIL","I","MAST cells","I",21,0.800326849138692,0.906527562316811
+"test","Categorical EM-MMIL","I","Endothelial cells","I",6,0.690895451138895,0.885389865265704
+"test","Categorical EM-MMIL","I","Epithelial cells","I",55,0.674918466925374,0.997322981278999
+"test","Categorical EM-MMIL","I","Myeloid cells","I",212,0.438679515877149,0.7496706197151
+"test","Categorical EM-MMIL","I","Fibroblasts","I",20,0.424878299211659,0.539870280550372
+"test","Categorical EM-MMIL","I","B lymphocytes","I",43,0.4101666617109,0.495663784223875
+"test","Categorical EM-MMIL","I","T lymphocytes","I",273,0.391022247434769,0.486754679792102
+"test","Categorical EM-MMIL","I","Undetermined","I",1,0.376604996787172,0.376604996787172
+"test","Categorical EM-MMIL","I","NK cells","I",55,0.300905474043944,0.381113884650349
+"test","Categorical EM-MMIL","I","Fibroblasts","II_III",20,0.325589897920052,0.538860950486295
+"test","Categorical EM-MMIL","I","Undetermined","II_III",1,0.0078706211861081,0.0078706211861081
+"test","Categorical EM-MMIL","I","MAST cells","II_III",21,0.00768232396072668,0.00951779027699074
+"test","Categorical EM-MMIL","I","NK cells","II_III",55,0.00761435379192101,0.00884993129319252
+"test","Categorical EM-MMIL","I","T lymphocytes","II_III",273,0.00744410185087714,0.0086829423722362
+"test","Categorical EM-MMIL","I","B lymphocytes","II_III",43,0.00696049659277909,0.00801313522755291
+"test","Categorical EM-MMIL","I","Myeloid cells","II_III",212,0.0065196481352473,0.0079629804301708
+"test","Categorical EM-MMIL","I","Epithelial cells","II_III",55,0.00342153670445499,0.00782827281418599
+"test","Categorical EM-MMIL","I","Endothelial cells","II_III",6,0.00329456863373685,0.00662119327123714
+"test","Categorical EM-MMIL","I","NK cells","IV",55,0.691480172164135,0.776724722654913
+"test","Categorical EM-MMIL","I","Undetermined","IV",1,0.61552438202672,0.61552438202672
+"test","Categorical EM-MMIL","I","T lymphocytes","IV",273,0.601533650714354,0.704213141446434
+"test","Categorical EM-MMIL","I","B lymphocytes","IV",43,0.582872841696321,0.643094525319117
+"test","Categorical EM-MMIL","I","Myeloid cells","IV",212,0.554800835987604,0.875843000865739
+"test","Categorical EM-MMIL","I","Epithelial cells","IV",55,0.321659996370172,0.976195654349026
+"test","Categorical EM-MMIL","I","Endothelial cells","IV",6,0.305809980227368,0.549842343394044
+"test","Categorical EM-MMIL","I","Fibroblasts","IV",20,0.249531802868289,0.422103573385792
+"test","Categorical EM-MMIL","I","MAST cells","IV",21,0.191990826900581,0.263905027707554
+"test","Categorical EM-MMIL","II_III","MAST cells","I",6,0.880203397725431,0.920298579039392
+"test","Categorical EM-MMIL","II_III","Endothelial cells","I",1,0.45983272199465,0.45983272199465
+"test","Categorical EM-MMIL","II_III","Epithelial cells","I",41,0.45118943016244,0.997127554174247
+"test","Categorical EM-MMIL","II_III","Myeloid cells","I",54,0.441247159093016,0.781905184361301
+"test","Categorical EM-MMIL","II_III","T lymphocytes","I",108,0.415373557302394,0.481971246949153
+"test","Categorical EM-MMIL","II_III","B lymphocytes","I",35,0.376079463412519,0.453026694498972
+"test","Categorical EM-MMIL","II_III","Undetermined","I",2,0.316648760369226,0.323394936152629
+"test","Categorical EM-MMIL","II_III","NK cells","I",20,0.314004278769582,0.373115715922336
+"test","Categorical EM-MMIL","II_III","Fibroblasts","I",3,0.262863679659715,0.384258782103692
+"test","Categorical EM-MMIL","II_III","Fibroblasts","II_III",3,0.55108946159238,0.769379150197686
+"test","Categorical EM-MMIL","II_III","NK cells","II_III",20,0.00777681124711602,0.0085044953294331
+"test","Categorical EM-MMIL","II_III","Undetermined","II_III",2,0.00749233120742947,0.00777253189249998
+"test","Categorical EM-MMIL","II_III","T lymphocytes","II_III",108,0.00731995491591407,0.00835778111563558
+"test","Categorical EM-MMIL","II_III","Endothelial cells","II_III",1,0.00724517159003526,0.00724517159003526
+"test","Categorical EM-MMIL","II_III","B lymphocytes","II_III",35,0.00670928888607398,0.00790186921960474
+"test","Categorical EM-MMIL","II_III","MAST cells","II_III",6,0.00639065636462605,0.00706379645964828
+"test","Categorical EM-MMIL","II_III","Myeloid cells","II_III",54,0.00636740229177663,0.0080092925987605
+"test","Categorical EM-MMIL","II_III","Epithelial cells","II_III",41,0.00256072729396399,0.00532623903853496
+"test","Categorical EM-MMIL","II_III","NK cells","IV",20,0.678218909983302,0.760202561854496
+"test","Categorical EM-MMIL","II_III","Undetermined","IV",2,0.675858908423345,0.682885284891818
+"test","Categorical EM-MMIL","II_III","B lymphocytes","IV",35,0.617211247701407,0.660985884721395
+"test","Categorical EM-MMIL","II_III","T lymphocytes","IV",108,0.577306487781692,0.654067767264923
+"test","Categorical EM-MMIL","II_III","Myeloid cells","IV",54,0.552385438615207,0.92239465843836
+"test","Categorical EM-MMIL","II_III","Epithelial cells","IV",41,0.546249842543596,0.982884503770124
+"test","Categorical EM-MMIL","II_III","Endothelial cells","IV",1,0.532922106415314,0.532922106415314
+"test","Categorical EM-MMIL","II_III","Fibroblasts","IV",3,0.186046858747905,0.303029891456694
+"test","Categorical EM-MMIL","II_III","MAST cells","IV",6,0.113405945909943,0.169388736678291
+"test","Categorical EM-MMIL","IV","Fibroblasts","I",5,0.373132549409383,0.484672531673326
+"test","Categorical EM-MMIL","IV","T lymphocytes","I",211,0.356098587502392,0.434142273656072
+"test","Categorical EM-MMIL","IV","B lymphocytes","I",77,0.339667723525415,0.396106002886913
+"test","Categorical EM-MMIL","IV","Undetermined","I",8,0.263440738971628,0.294890525460967
+"test","Categorical EM-MMIL","IV","NK cells","I",42,0.245141665205526,0.305778455680596
+"test","Categorical EM-MMIL","IV","Myeloid cells","I",146,0.176538455187666,0.327739845125452
+"test","Categorical EM-MMIL","IV","Epithelial cells","I",379,0.133716354326108,0.299417368783999
+"test","Categorical EM-MMIL","IV","Oligodendrocytes","I",2,0.00705520636213946,0.00966623061606285
+"test","Categorical EM-MMIL","IV","Oligodendrocytes","II_III",2,0.146520079042805,0.250127578929158
+"test","Categorical EM-MMIL","IV","Fibroblasts","II_III",5,0.081191954295221,0.163556974635923
+"test","Categorical EM-MMIL","IV","Undetermined","II_III",8,0.0083575976688747,0.00923448089474057
+"test","Categorical EM-MMIL","IV","NK cells","II_III",42,0.00704607541715844,0.00782788082578336
+"test","Categorical EM-MMIL","IV","T lymphocytes","II_III",211,0.00703903328312415,0.00801859874805496
+"test","Categorical EM-MMIL","IV","B lymphocytes","II_III",77,0.00633657737386825,0.00717988818981085
+"test","Categorical EM-MMIL","IV","Myeloid cells","II_III",146,0.00545560709454388,0.0076484829076436
+"test","Categorical EM-MMIL","IV","Epithelial cells","II_III",379,0.00531538350017495,0.00837918693585705
+"test","Categorical EM-MMIL","IV","Epithelial cells","IV",379,0.860968262173717,0.960982034714691
+"test","Categorical EM-MMIL","IV","Oligodendrocytes","IV",2,0.846424714595056,0.947421190227485
+"test","Categorical EM-MMIL","IV","Myeloid cells","IV",146,0.81800593771779,0.930666250039861
+"test","Categorical EM-MMIL","IV","NK cells","IV",42,0.747812259377316,0.802213237975305
+"test","Categorical EM-MMIL","IV","Undetermined","IV",8,0.728201663359498,0.770237083761392
+"test","Categorical EM-MMIL","IV","B lymphocytes","IV",77,0.653995699100717,0.713769641612348
+"test","Categorical EM-MMIL","IV","T lymphocytes","IV",211,0.636862379214484,0.712972866524386
+"test","Categorical EM-MMIL","IV","Fibroblasts","IV",5,0.545675496295397,0.726662323197629
+"test","Categorical MCEM-MMIL","I","MAST cells","I",21,0.798084265037748,0.905601265997093
+"test","Categorical MCEM-MMIL","I","Endothelial cells","I",6,0.687119615340511,0.883250333873759
+"test","Categorical MCEM-MMIL","I","Epithelial cells","I",55,0.672331372615319,0.997219955096525
+"test","Categorical MCEM-MMIL","I","Myeloid cells","I",212,0.435427586887195,0.74480711365133
+"test","Categorical MCEM-MMIL","I","Fibroblasts","I",20,0.428171618312331,0.542439292747522
+"test","Categorical MCEM-MMIL","I","B lymphocytes","I",43,0.411253043589171,0.498127500818964
+"test","Categorical MCEM-MMIL","I","T lymphocytes","I",273,0.389893003095494,0.484135357749903
+"test","Categorical MCEM-MMIL","I","Undetermined","I",1,0.378925779394595,0.378925779394595
+"test","Categorical MCEM-MMIL","I","NK cells","I",55,0.306149526872469,0.387236805043645
+"test","Categorical MCEM-MMIL","I","Fibroblasts","II_III",20,0.314314386859043,0.519128794850609
+"test","Categorical MCEM-MMIL","I","Undetermined","II_III",1,0.00742460462847322,0.00742460462847322
+"test","Categorical MCEM-MMIL","I","MAST cells","II_III",21,0.00741027610217475,0.00912871666248638
+"test","Categorical MCEM-MMIL","I","T lymphocytes","II_III",273,0.00689593760750169,0.00798608852691857
+"test","Categorical MCEM-MMIL","I","NK cells","II_III",55,0.00683954848919286,0.00793421362451458
+"test","Categorical MCEM-MMIL","I","B lymphocytes","II_III",43,0.00658674953029779,0.00756692408888953
+"test","Categorical MCEM-MMIL","I","Myeloid cells","II_III",212,0.00628907411831755,0.00762033409025042
+"test","Categorical MCEM-MMIL","I","Epithelial cells","II_III",55,0.00337005722584549,0.00799001879509359
+"test","Categorical MCEM-MMIL","I","Endothelial cells","II_III",6,0.00333699880817055,0.00656569259916916
+"test","Categorical MCEM-MMIL","I","NK cells","IV",55,0.687010924638338,0.773345212208669
+"test","Categorical MCEM-MMIL","I","Undetermined","IV",1,0.613649615976931,0.613649615976931
+"test","Categorical MCEM-MMIL","I","T lymphocytes","IV",273,0.603211059297004,0.706558907862571
+"test","Categorical MCEM-MMIL","I","B lymphocytes","IV",43,0.582160206880531,0.642906158848909
+"test","Categorical MCEM-MMIL","I","Myeloid cells","IV",212,0.558283338994488,0.877208059832621
+"test","Categorical MCEM-MMIL","I","Epithelial cells","IV",55,0.324298570158836,0.976937195851268
+"test","Categorical MCEM-MMIL","I","Endothelial cells","IV",6,0.309543385851318,0.555113547568903
+"test","Categorical MCEM-MMIL","I","Fibroblasts","IV",20,0.257513994828626,0.432265353651359
+"test","Categorical MCEM-MMIL","I","MAST cells","IV",21,0.194505458860077,0.26767339814724
+"test","Categorical MCEM-MMIL","II_III","MAST cells","I",6,0.878962242938653,0.919395419693972
+"test","Categorical MCEM-MMIL","II_III","Endothelial cells","I",1,0.452849987720858,0.452849987720858
+"test","Categorical MCEM-MMIL","II_III","Epithelial cells","I",41,0.449753384017824,0.99699375061272
+"test","Categorical MCEM-MMIL","II_III","Myeloid cells","I",54,0.437903381340242,0.777158675718319
+"test","Categorical MCEM-MMIL","II_III","T lymphocytes","I",108,0.41369623682587,0.481927133552467
+"test","Categorical MCEM-MMIL","II_III","B lymphocytes","I",35,0.376170658479506,0.451112953195909
+"test","Categorical MCEM-MMIL","II_III","NK cells","I",20,0.320588731778524,0.379685891786736
+"test","Categorical MCEM-MMIL","II_III","Undetermined","I",2,0.31988427178049,0.327854738765542
+"test","Categorical MCEM-MMIL","II_III","Fibroblasts","I",3,0.267715610011914,0.385208228445968
+"test","Categorical MCEM-MMIL","II_III","Fibroblasts","II_III",3,0.538143951450629,0.755749219584858
+"test","Categorical MCEM-MMIL","II_III","Endothelial cells","II_III",1,0.00719399647805657,0.00719399647805657
+"test","Categorical MCEM-MMIL","II_III","Undetermined","II_III",2,0.00704957582704387,0.00730600079433763
+"test","Categorical MCEM-MMIL","II_III","NK cells","II_III",20,0.00692423590540422,0.00750218516036995
+"test","Categorical MCEM-MMIL","II_III","T lymphocytes","II_III",108,0.00679147998990289,0.00778650094181104
+"test","Categorical MCEM-MMIL","II_III","B lymphocytes","II_III",35,0.00634515761229079,0.00745217064522323
+"test","Categorical MCEM-MMIL","II_III","MAST cells","II_III",6,0.00622228554991387,0.00685602452562107
+"test","Categorical MCEM-MMIL","II_III","Myeloid cells","II_III",54,0.00613812667409134,0.00774658143038194
+"test","Categorical MCEM-MMIL","II_III","Epithelial cells","II_III",41,0.00245067948922363,0.00503178365638856
+"test","Categorical MCEM-MMIL","II_III","Undetermined","IV",2,0.673066152392467,0.681293044344813
+"test","Categorical MCEM-MMIL","II_III","NK cells","IV",20,0.672487032316071,0.756837677824632
+"test","Categorical MCEM-MMIL","II_III","B lymphocytes","IV",35,0.617484183908203,0.659866240293475
+"test","Categorical MCEM-MMIL","II_III","T lymphocytes","IV",108,0.579512283184227,0.656807824372371
+"test","Categorical MCEM-MMIL","II_III","Myeloid cells","IV",54,0.555958491985666,0.922962705658533
+"test","Categorical MCEM-MMIL","II_III","Epithelial cells","IV",41,0.547795936492952,0.983546522038124
+"test","Categorical MCEM-MMIL","II_III","Endothelial cells","IV",1,0.539956015801085,0.539956015801085
+"test","Categorical MCEM-MMIL","II_III","Fibroblasts","IV",3,0.194140438537458,0.311611395562946
+"test","Categorical MCEM-MMIL","II_III","MAST cells","IV",6,0.114815471511434,0.171523476948796
+"test","Categorical MCEM-MMIL","IV","Fibroblasts","I",5,0.369856012867208,0.479730806898562
+"test","Categorical MCEM-MMIL","IV","T lymphocytes","I",211,0.354985877537354,0.433785478726733
+"test","Categorical MCEM-MMIL","IV","B lymphocytes","I",77,0.340873076043307,0.397786690683596
+"test","Categorical MCEM-MMIL","IV","Undetermined","I",8,0.265165446678798,0.295857001799734
+"test","Categorical MCEM-MMIL","IV","NK cells","I",42,0.249611673113573,0.312926970416481
+"test","Categorical MCEM-MMIL","IV","Myeloid cells","I",146,0.17522998270317,0.324108404841486
+"test","Categorical MCEM-MMIL","IV","Epithelial cells","I",379,0.130625072117858,0.292339975554633
+"test","Categorical MCEM-MMIL","IV","Oligodendrocytes","I",2,0.00718257146127032,0.00971256058706886
+"test","Categorical MCEM-MMIL","IV","Oligodendrocytes","II_III",2,0.143070924107291,0.244504671525468
+"test","Categorical MCEM-MMIL","IV","Fibroblasts","II_III",5,0.0782614917286725,0.157837350409728
+"test","Categorical MCEM-MMIL","IV","Undetermined","II_III",8,0.00788960532449885,0.00870906225009337
+"test","Categorical MCEM-MMIL","IV","T lymphocytes","II_III",211,0.00650648813559903,0.00734456556187373
+"test","Categorical MCEM-MMIL","IV","NK cells","II_III",42,0.00633592309336893,0.00724958829755397
+"test","Categorical MCEM-MMIL","IV","B lymphocytes","II_III",77,0.00600255066220685,0.00679502179872938
+"test","Categorical MCEM-MMIL","IV","Myeloid cells","II_III",146,0.00518823888765433,0.00727060270759699
+"test","Categorical MCEM-MMIL","IV","Epithelial cells","II_III",379,0.00504529920582547,0.00797280512718669
+"test","Categorical MCEM-MMIL","IV","Epithelial cells","IV",379,0.864329628676317,0.962250127883507
+"test","Categorical MCEM-MMIL","IV","Oligodendrocytes","IV",2,0.849746504431439,0.948650262723817
+"test","Categorical MCEM-MMIL","IV","Myeloid cells","IV",146,0.819581778409175,0.931481397388112
+"test","Categorical MCEM-MMIL","IV","NK cells","IV",42,0.744052403793058,0.799516306101203
+"test","Categorical MCEM-MMIL","IV","Undetermined","IV",8,0.726944947996704,0.768368405967131
+"test","Categorical MCEM-MMIL","IV","B lymphocytes","IV",77,0.653124373294486,0.71287828838352
+"test","Categorical MCEM-MMIL","IV","T lymphocytes","IV",211,0.638507634327047,0.714171417076408
+"test","Categorical MCEM-MMIL","IV","Fibroblasts","IV",5,0.551882495404119,0.730090324492997
+"test","Naive inherited-label classifier","I","Endothelial cells","I",6,0.616328276275459,0.752497330961059
+"test","Naive inherited-label classifier","I","MAST cells","I",21,0.5015973116745,0.56382184131644
+"test","Naive inherited-label classifier","I","Epithelial cells","I",55,0.437001899989123,0.741343501358865
+"test","Naive inherited-label classifier","I","B lymphocytes","I",43,0.393096776214945,0.441712860030947
+"test","Naive inherited-label classifier","I","Fibroblasts","I",20,0.376010673820165,0.442850262600476
+"test","Naive inherited-label classifier","I","Undetermined","I",1,0.374152489804807,0.374152489804807
+"test","Naive inherited-label classifier","I","T lymphocytes","I",273,0.366036839610004,0.421647426484493
+"test","Naive inherited-label classifier","I","Myeloid cells","I",212,0.339723555791543,0.457669623735635
+"test","Naive inherited-label classifier","I","NK cells","I",55,0.298426872252495,0.335363604855325
+"test","Naive inherited-label classifier","I","Fibroblasts","II_III",20,0.45723727944566,0.58338298471092
+"test","Naive inherited-label classifier","I","NK cells","II_III",55,0.167871387441922,0.192897718404588
+"test","Naive inherited-label classifier","I","MAST cells","II_III",21,0.163839685712155,0.185116427935463
+"test","Naive inherited-label classifier","I","Myeloid cells","II_III",212,0.155404977850817,0.21278886032921
+"test","Naive inherited-label classifier","I","T lymphocytes","II_III",273,0.13496533442448,0.174738657583448
+"test","Naive inherited-label classifier","I","Epithelial cells","II_III",55,0.113877510784992,0.175881997604698
+"test","Naive inherited-label classifier","I","Undetermined","II_III",1,0.104867184144295,0.104867184144295
+"test","Naive inherited-label classifier","I","B lymphocytes","II_III",43,0.0826194645998467,0.099920985236628
+"test","Naive inherited-label classifier","I","Endothelial cells","II_III",6,0.0445244006715487,0.0696826036924099
+"test","Naive inherited-label classifier","I","NK cells","IV",55,0.533701740305582,0.579797099172085
+"test","Naive inherited-label classifier","I","B lymphocytes","IV",43,0.524283759185208,0.56176846937434
+"test","Naive inherited-label classifier","I","Undetermined","IV",1,0.520980326050898,0.520980326050898
+"test","Naive inherited-label classifier","I","Myeloid cells","IV",212,0.50487146635764,0.696695279621282
+"test","Naive inherited-label classifier","I","T lymphocytes","IV",273,0.498997825965517,0.569233837502433
+"test","Naive inherited-label classifier","I","Epithelial cells","IV",55,0.449120589225885,0.93166095306139
+"test","Naive inherited-label classifier","I","Endothelial cells","IV",6,0.339147323052992,0.495463228129592
+"test","Naive inherited-label classifier","I","MAST cells","IV",21,0.334563002613345,0.375668275455799
+"test","Naive inherited-label classifier","I","Fibroblasts","IV",20,0.166752046734176,0.301970974667145
+"test","Naive inherited-label classifier","II_III","MAST cells","I",6,0.557809978527338,0.597965694490023
+"test","Naive inherited-label classifier","II_III","Endothelial cells","I",1,0.446150989315294,0.446150989315294
+"test","Naive inherited-label classifier","II_III","T lymphocytes","I",108,0.379084792681312,0.416566158943812
+"test","Naive inherited-label classifier","II_III","B lymphocytes","I",35,0.364484159311466,0.413263171798455
+"test","Naive inherited-label classifier","II_III","Undetermined","I",2,0.334584972785581,0.342191655642719
+"test","Naive inherited-label classifier","II_III","Myeloid cells","I",54,0.328755733117024,0.46309640935682
+"test","Naive inherited-label classifier","II_III","Fibroblasts","I",3,0.326532258161609,0.381795771367002
+"test","Naive inherited-label classifier","II_III","Epithelial cells","I",41,0.32617291396275,0.72975990879035
+"test","Naive inherited-label classifier","II_III","NK cells","I",20,0.301653710336359,0.330981166393363
+"test","Naive inherited-label classifier","II_III","Fibroblasts","II_III",3,0.540816268267694,0.667102733148048
+"test","Naive inherited-label classifier","II_III","NK cells","II_III",20,0.178626152166622,0.211832244613434
+"test","Naive inherited-label classifier","II_III","MAST cells","II_III",6,0.169467060082876,0.190332521609363
+"test","Naive inherited-label classifier","II_III","Myeloid cells","II_III",54,0.159033518481015,0.224986377288813
+"test","Naive inherited-label classifier","II_III","T lymphocytes","II_III",108,0.131905310253131,0.161550811884115
+"test","Naive inherited-label classifier","II_III","Undetermined","II_III",2,0.102587152211773,0.105526821439231
+"test","Naive inherited-label classifier","II_III","Epithelial cells","II_III",41,0.0826569670043561,0.163791818275034
+"test","Naive inherited-label classifier","II_III","B lymphocytes","II_III",35,0.0805126352094612,0.0955619677380369
+"test","Naive inherited-label classifier","II_III","Endothelial cells","II_III",1,0.0718872185589555,0.0718872185589555
+"test","Naive inherited-label classifier","II_III","Epithelial cells","IV",41,0.591170119032894,0.938148619103526
+"test","Naive inherited-label classifier","II_III","Undetermined","IV",2,0.562827875002646,0.573374227087243
+"test","Naive inherited-label classifier","II_III","B lymphocytes","IV",35,0.555003205479073,0.584306871787683
+"test","Naive inherited-label classifier","II_III","NK cells","IV",20,0.51972013749702,0.569952230788921
+"test","Naive inherited-label classifier","II_III","Myeloid cells","IV",54,0.512210748401961,0.753597292050858
+"test","Naive inherited-label classifier","II_III","T lymphocytes","IV",108,0.489009897065557,0.53992406784985
+"test","Naive inherited-label classifier","II_III","Endothelial cells","IV",1,0.481961792125751,0.481961792125751
+"test","Naive inherited-label classifier","II_III","MAST cells","IV",6,0.272722961389786,0.331648522003603
+"test","Naive inherited-label classifier","II_III","Fibroblasts","IV",3,0.132651473570697,0.208785018663103
+"test","Naive inherited-label classifier","IV","Fibroblasts","I",5,0.371799655818709,0.476343444224794
+"test","Naive inherited-label classifier","IV","B lymphocytes","I",77,0.354817587507315,0.390911997917229
+"test","Naive inherited-label classifier","IV","T lymphocytes","I",211,0.349697340280308,0.398675651565604
+"test","Naive inherited-label classifier","IV","Undetermined","I",8,0.305271097138186,0.323038583713401
+"test","Naive inherited-label classifier","IV","NK cells","I",42,0.269177271240747,0.3123808075973
+"test","Naive inherited-label classifier","IV","Myeloid cells","I",146,0.219482096478045,0.293707494764529
+"test","Naive inherited-label classifier","IV","Epithelial cells","I",379,0.114967913722544,0.180905779707674
+"test","Naive inherited-label classifier","IV","Oligodendrocytes","I",2,0.0178954273278039,0.0232209822702231
+"test","Naive inherited-label classifier","IV","Fibroblasts","II_III",5,0.207441509154209,0.30946894215688
+"test","Naive inherited-label classifier","IV","Oligodendrocytes","II_III",2,0.201843703389462,0.307232370042722
+"test","Naive inherited-label classifier","IV","NK cells","II_III",42,0.152800852917196,0.18226380134466
+"test","Naive inherited-label classifier","IV","T lymphocytes","II_III",211,0.128429826181862,0.157210550560457
+"test","Naive inherited-label classifier","IV","Myeloid cells","II_III",146,0.109079026596552,0.142508782377455
+"test","Naive inherited-label classifier","IV","Undetermined","II_III",8,0.104252203331877,0.113453929808091
+"test","Naive inherited-label classifier","IV","B lymphocytes","II_III",77,0.0753448252623078,0.0845462617540092
+"test","Naive inherited-label classifier","IV","Epithelial cells","II_III",379,0.0493089604254051,0.070281379658477
+"test","Naive inherited-label classifier","IV","Epithelial cells","IV",379,0.835723125852051,0.904190338227432
+"test","Naive inherited-label classifier","IV","Oligodendrocytes","IV",2,0.780260869282735,0.880323980993576
+"test","Naive inherited-label classifier","IV","Myeloid cells","IV",146,0.671438876925403,0.762816575001103
+"test","Naive inherited-label classifier","IV","Undetermined","IV",8,0.590476699529937,0.610974377707419
+"test","Naive inherited-label classifier","IV","NK cells","IV",42,0.578021875842057,0.628624849534722
+"test","Naive inherited-label classifier","IV","B lymphocytes","IV",77,0.569837587230378,0.607453472466459
+"test","Naive inherited-label classifier","IV","T lymphocytes","IV",211,0.52187283353783,0.580115488172977
+"test","Naive inherited-label classifier","IV","Fibroblasts","IV",5,0.420758835027082,0.56076285964971
+"train","Categorical EM-MMIL","I","MAST cells","I",33,0.859683191795254,0.930276380375764
+"train","Categorical EM-MMIL","I","Endothelial cells","I",32,0.709114777588441,0.865201666734802
+"train","Categorical EM-MMIL","I","Epithelial cells","I",129,0.608314899471804,0.994476180324882
+"train","Categorical EM-MMIL","I","Myeloid cells","I",227,0.439654403015406,0.741359226365784
+"train","Categorical EM-MMIL","I","T lymphocytes","I",737,0.415161659245205,0.498425002309164
+"train","Categorical EM-MMIL","I","B lymphocytes","I",298,0.401438217692441,0.487590310784414
+"train","Categorical EM-MMIL","I","Fibroblasts","I",24,0.390055798331148,0.622460884134223
+"train","Categorical EM-MMIL","I","NK cells","I",84,0.336558068667093,0.425336129619547
+"train","Categorical EM-MMIL","I","Undetermined","I",6,0.333649520969467,0.389459660738164
+"train","Categorical EM-MMIL","I","Fibroblasts","II_III",24,0.280530350331437,0.620510002773102
+"train","Categorical EM-MMIL","I","Myeloid cells","II_III",227,0.00877704269840858,0.00834134608560032
+"train","Categorical EM-MMIL","I","NK cells","II_III",84,0.00828108085231299,0.00960576253472437
+"train","Categorical EM-MMIL","I","Undetermined","II_III",6,0.00778410635163451,0.00873248211713095
+"train","Categorical EM-MMIL","I","T lymphocytes","II_III",737,0.00735611121938109,0.00840528072537452
+"train","Categorical EM-MMIL","I","MAST cells","II_III",33,0.00734892711465098,0.00880897198354304
+"train","Categorical EM-MMIL","I","B lymphocytes","II_III",298,0.00667720687064935,0.00771039749137084
+"train","Categorical EM-MMIL","I","Epithelial cells","II_III",129,0.00471090964062594,0.00768268460719332
+"train","Categorical EM-MMIL","I","Endothelial cells","II_III",32,0.00250856448246751,0.00470918533282763
+"train","Categorical EM-MMIL","I","Undetermined","IV",6,0.658566372678898,0.706559542237054
+"train","Categorical EM-MMIL","I","NK cells","IV",84,0.655160850480595,0.73544344759902
+"train","Categorical EM-MMIL","I","B lymphocytes","IV",298,0.59188457543691,0.673127013693351
+"train","Categorical EM-MMIL","I","T lymphocytes","IV",737,0.577482229535414,0.661621502140303
+"train","Categorical EM-MMIL","I","Myeloid cells","IV",227,0.551568554286186,0.8788396237445
+"train","Categorical EM-MMIL","I","Epithelial cells","IV",129,0.38697419088757,0.986168618181668
+"train","Categorical EM-MMIL","I","Fibroblasts","IV",24,0.329413851337414,0.687724681696153
+"train","Categorical EM-MMIL","I","Endothelial cells","IV",32,0.288376657929091,0.445094581231054
+"train","Categorical EM-MMIL","I","MAST cells","IV",33,0.132967881090095,0.201428046207252
+"train","Categorical EM-MMIL","II_III","MAST cells","I",10,0.840996651937259,0.8918026158655
+"train","Categorical EM-MMIL","II_III","Endothelial cells","I",3,0.680363859826795,0.713821863027471
+"train","Categorical EM-MMIL","II_III","Epithelial cells","I",39,0.550169903417964,0.997865423745466
+"train","Categorical EM-MMIL","II_III","T lymphocytes","I",256,0.397844879677676,0.495411549322898
+"train","Categorical EM-MMIL","II_III","Myeloid cells","I",121,0.389541986409024,0.738773709766491
+"train","Categorical EM-MMIL","II_III","Fibroblasts","I",31,0.361137876639661,0.597510438083589
+"train","Categorical EM-MMIL","II_III","B lymphocytes","I",62,0.357049463613463,0.444080729321291
+"train","Categorical EM-MMIL","II_III","Undetermined","I",1,0.303052762722612,0.303052762722612
+"train","Categorical EM-MMIL","II_III","NK cells","I",31,0.278655111055069,0.382663503893058
+"train","Categorical EM-MMIL","II_III","Oligodendrocytes","I",10,0.0047846885751352,0.00725623916409365
+"train","Categorical EM-MMIL","II_III","Fibroblasts","II_III",31,0.491962895655379,0.719580566405395
+"train","Categorical EM-MMIL","II_III","Oligodendrocytes","II_III",10,0.438257044200004,0.548887229980271
+"train","Categorical EM-MMIL","II_III","MAST cells","II_III",10,0.00837849643238309,0.0102647918862397
+"train","Categorical EM-MMIL","II_III","Undetermined","II_III",1,0.00781917604423768,0.00781917604423768
+"train","Categorical EM-MMIL","II_III","NK cells","II_III",31,0.00774915265803712,0.00947183177442468
+"train","Categorical EM-MMIL","II_III","T lymphocytes","II_III",256,0.00754749785012242,0.00880147030239648
+"train","Categorical EM-MMIL","II_III","B lymphocytes","II_III",62,0.006860069019021,0.00877035164692828
+"train","Categorical EM-MMIL","II_III","Myeloid cells","II_III",121,0.00655175907231365,0.00820439651196187
+"train","Categorical EM-MMIL","II_III","Epithelial cells","II_III",39,0.00290319273977558,0.00622650897058972
+"train","Categorical EM-MMIL","II_III","Endothelial cells","II_III",3,0.00265418652820298,0.00342535937544328
+"train","Categorical EM-MMIL","II_III","NK cells","IV",31,0.713595736286894,0.80451807768653
+"train","Categorical EM-MMIL","II_III","Undetermined","IV",1,0.68912806123315,0.68912806123315
+"train","Categorical EM-MMIL","II_III","B lymphocytes","IV",62,0.636090467367516,0.721842899507042
+"train","Categorical EM-MMIL","II_III","Myeloid cells","IV",121,0.603906254518663,0.893815399343442
+"train","Categorical EM-MMIL","II_III","T lymphocytes","IV",256,0.594607622472201,0.688532338188081
+"train","Categorical EM-MMIL","II_III","Oligodendrocytes","IV",10,0.556958267224862,0.657035409140137
+"train","Categorical EM-MMIL","II_III","Epithelial cells","IV",39,0.44692690384226,0.978805134259913
+"train","Categorical EM-MMIL","II_III","Endothelial cells","IV",3,0.316981953645002,0.358483421864753
+"train","Categorical EM-MMIL","II_III","MAST cells","IV",10,0.150624851630358,0.178580614936237
+"train","Categorical EM-MMIL","II_III","Fibroblasts","IV",31,0.146899227704959,0.220984300628262
+"train","Categorical EM-MMIL","IV","MAST cells","I",14,0.941904676813497,0.976494135145211
+"train","Categorical EM-MMIL","IV","Fibroblasts","I",25,0.386785632779695,0.646904685155888
+"train","Categorical EM-MMIL","IV","T lymphocytes","I",994,0.361999750173258,0.448825029902973
+"train","Categorical EM-MMIL","IV","B lymphocytes","I",422,0.3593964776443,0.431575385066746
+"train","Categorical EM-MMIL","IV","NK cells","I",126,0.272504495573085,0.344910758200476
+"train","Categorical EM-MMIL","IV","Undetermined","I",9,0.259820011622331,0.298186135818107
+"train","Categorical EM-MMIL","IV","Myeloid cells","I",564,0.166043906728711,0.302010243792581
+"train","Categorical EM-MMIL","IV","Epithelial cells","I",877,0.0976094809763452,0.282445029228114
+"train","Categorical EM-MMIL","IV","Oligodendrocytes","I",9,0.00509423810905319,0.0116655209595153
+"train","Categorical EM-MMIL","IV","Oligodendrocytes","II_III",9,0.273975157580395,0.487943134560978
+"train","Categorical EM-MMIL","IV","Fibroblasts","II_III",25,0.176864101554213,0.477743141228291
+"train","Categorical EM-MMIL","IV","NK cells","II_III",126,0.00719869672338778,0.00842427460375514
+"train","Categorical EM-MMIL","IV","Undetermined","II_III",9,0.00710190047259371,0.00843402052514321
+"train","Categorical EM-MMIL","IV","T lymphocytes","II_III",994,0.00686857882737054,0.00787800027406087
+"train","Categorical EM-MMIL","IV","B lymphocytes","II_III",422,0.00605164930901098,0.0070743134760952
+"train","Categorical EM-MMIL","IV","Myeloid cells","II_III",564,0.0053509149672359,0.00833324489161344
+"train","Categorical EM-MMIL","IV","MAST cells","II_III",14,0.00497743382647453,0.00649173610762815
+"train","Categorical EM-MMIL","IV","Epithelial cells","II_III",877,0.00259685723204249,0.00656315917946513
+"train","Categorical EM-MMIL","IV","Epithelial cells","IV",877,0.899793661791612,0.997328042557617
+"train","Categorical EM-MMIL","IV","Myeloid cells","IV",564,0.828605178304053,0.941160700978879
+"train","Categorical EM-MMIL","IV","Undetermined","IV",9,0.733078087905075,0.785318041057484
+"train","Categorical EM-MMIL","IV","Oligodendrocytes","IV",9,0.720930604310552,0.864600344900555
+"train","Categorical EM-MMIL","IV","NK cells","IV",126,0.720296807703527,0.794939194653173
+"train","Categorical EM-MMIL","IV","B lymphocytes","IV",422,0.634551873046689,0.723417012131739
+"train","Categorical EM-MMIL","IV","T lymphocytes","IV",994,0.631131670999371,0.723471561831403
+"train","Categorical EM-MMIL","IV","Fibroblasts","IV",25,0.436350265666093,0.712528260307237
+"train","Categorical EM-MMIL","IV","MAST cells","IV",14,0.0531178893600282,0.0871095350143473
+"train","Categorical MCEM-MMIL","I","MAST cells","I",33,0.857961849043531,0.929795256319722
+"train","Categorical MCEM-MMIL","I","Endothelial cells","I",32,0.705366888143383,0.863035136920313
+"train","Categorical MCEM-MMIL","I","Epithelial cells","I",129,0.603282162305112,0.994194634050321
+"train","Categorical MCEM-MMIL","I","Myeloid cells","I",227,0.436292591325462,0.739756601697792
+"train","Categorical MCEM-MMIL","I","T lymphocytes","I",737,0.412515575452048,0.495690116103863
+"train","Categorical MCEM-MMIL","I","B lymphocytes","I",298,0.402754872315516,0.488154741236832
+"train","Categorical MCEM-MMIL","I","Fibroblasts","I",24,0.392057638273593,0.619575637636159
+"train","Categorical MCEM-MMIL","I","NK cells","I",84,0.342932963750983,0.433911036977211
+"train","Categorical MCEM-MMIL","I","Undetermined","I",6,0.33607440769036,0.392065616171594
+"train","Categorical MCEM-MMIL","I","Fibroblasts","II_III",24,0.270861559303301,0.602458489551223
+"train","Categorical MCEM-MMIL","I","Myeloid cells","II_III",227,0.00847432268795532,0.00806042611011253
+"train","Categorical MCEM-MMIL","I","NK cells","II_III",84,0.00739756717319894,0.00859009710634544
+"train","Categorical MCEM-MMIL","I","Undetermined","II_III",6,0.00735154233986228,0.00826331182760648
+"train","Categorical MCEM-MMIL","I","MAST cells","II_III",33,0.00714030135113898,0.00847599854741917
+"train","Categorical MCEM-MMIL","I","T lymphocytes","II_III",737,0.00685805189014655,0.00775046313191313
+"train","Categorical MCEM-MMIL","I","B lymphocytes","II_III",298,0.00632248985316243,0.00728610542402593
+"train","Categorical MCEM-MMIL","I","Epithelial cells","II_III",129,0.00464895818621645,0.00767787251256475
+"train","Categorical MCEM-MMIL","I","Endothelial cells","II_III",32,0.00258806562687857,0.00475506730387417
+"train","Categorical MCEM-MMIL","I","Undetermined","IV",6,0.656574049969778,0.704286989659431
+"train","Categorical MCEM-MMIL","I","NK cells","IV",84,0.649669469075818,0.730487158007165
+"train","Categorical MCEM-MMIL","I","B lymphocytes","IV",298,0.590922637831321,0.670887486826945
+"train","Categorical MCEM-MMIL","I","T lymphocytes","IV",737,0.580626372657805,0.664845909160571
+"train","Categorical MCEM-MMIL","I","Myeloid cells","IV",227,0.555233085986582,0.878751910665042
+"train","Categorical MCEM-MMIL","I","Epithelial cells","IV",129,0.392068879508671,0.986592626446254
+"train","Categorical MCEM-MMIL","I","Fibroblasts","IV",24,0.337080802423107,0.694354999205278
+"train","Categorical MCEM-MMIL","I","Endothelial cells","IV",32,0.292045046229738,0.450299411278784
+"train","Categorical MCEM-MMIL","I","MAST cells","IV",33,0.13489784960533,0.203925549500338
+"train","Categorical MCEM-MMIL","II_III","MAST cells","I",10,0.839129393091778,0.89106862769695
+"train","Categorical MCEM-MMIL","II_III","Endothelial cells","I",3,0.676793391768911,0.709751195028317
+"train","Categorical MCEM-MMIL","II_III","Epithelial cells","I",39,0.547173060952357,0.997779070689529
+"train","Categorical MCEM-MMIL","II_III","T lymphocytes","I",256,0.396677359924917,0.495711393914386
+"train","Categorical MCEM-MMIL","II_III","Myeloid cells","I",121,0.386332243628787,0.733133552443835
+"train","Categorical MCEM-MMIL","II_III","Fibroblasts","I",31,0.368917312278891,0.600838328032629
+"train","Categorical MCEM-MMIL","II_III","B lymphocytes","I",62,0.357148320961253,0.442151812276761
+"train","Categorical MCEM-MMIL","II_III","Undetermined","I",1,0.306420847684057,0.306420847684057
+"train","Categorical MCEM-MMIL","II_III","NK cells","I",31,0.283989130213734,0.386940098027597
+"train","Categorical MCEM-MMIL","II_III","Oligodendrocytes","I",10,0.00506366580231035,0.00764024100966672
+"train","Categorical MCEM-MMIL","II_III","Fibroblasts","II_III",31,0.477263467437262,0.703681642365516
+"train","Categorical MCEM-MMIL","II_III","Oligodendrocytes","II_III",10,0.430909164952301,0.544988512411842
+"train","Categorical MCEM-MMIL","II_III","MAST cells","II_III",10,0.00810951080862052,0.0098841374277934
+"train","Categorical MCEM-MMIL","II_III","Undetermined","II_III",1,0.00739071232189679,0.00739071232189679
+"train","Categorical MCEM-MMIL","II_III","T lymphocytes","II_III",256,0.00698395431423267,0.00807969496763
+"train","Categorical MCEM-MMIL","II_III","NK cells","II_III",31,0.0069466561106336,0.00847575166006433
+"train","Categorical MCEM-MMIL","II_III","B lymphocytes","II_III",62,0.0064803891992031,0.00824924376018516
+"train","Categorical MCEM-MMIL","II_III","Myeloid cells","II_III",121,0.00631020816063724,0.00800346776595384
+"train","Categorical MCEM-MMIL","II_III","Epithelial cells","II_III",39,0.00297578028910202,0.00704991152099396
+"train","Categorical MCEM-MMIL","II_III","Endothelial cells","II_III",3,0.00276238896682421,0.00357611277585691
+"train","Categorical MCEM-MMIL","II_III","NK cells","IV",31,0.709064213675633,0.801106153749127
+"train","Categorical MCEM-MMIL","II_III","Undetermined","IV",1,0.686188439994047,0.686188439994047
+"train","Categorical MCEM-MMIL","II_III","B lymphocytes","IV",62,0.636371289839544,0.72247290253609
+"train","Categorical MCEM-MMIL","II_III","Myeloid cells","IV",121,0.607357548210575,0.895244397884977
+"train","Categorical MCEM-MMIL","II_III","T lymphocytes","IV",256,0.59633868576085,0.689563376603342
+"train","Categorical MCEM-MMIL","II_III","Oligodendrocytes","IV",10,0.564027169245389,0.664714783806617
+"train","Categorical MCEM-MMIL","II_III","Epithelial cells","IV",39,0.449851158758541,0.979511822699966
+"train","Categorical MCEM-MMIL","II_III","Endothelial cells","IV",3,0.320444219264265,0.361896813187966
+"train","Categorical MCEM-MMIL","II_III","Fibroblasts","IV",31,0.153819220283847,0.231674690440012
+"train","Categorical MCEM-MMIL","II_III","MAST cells","IV",10,0.152761096099602,0.181018609460393
+"train","Categorical MCEM-MMIL","IV","MAST cells","I",14,0.941075926109204,0.976090312265101
+"train","Categorical MCEM-MMIL","IV","Fibroblasts","I",25,0.385771568470823,0.641153707825746
+"train","Categorical MCEM-MMIL","IV","B lymphocytes","I",422,0.360803127098919,0.435392457723521
+"train","Categorical MCEM-MMIL","IV","T lymphocytes","I",994,0.359791335557031,0.446832079208023
+"train","Categorical MCEM-MMIL","IV","NK cells","I",126,0.277034523757468,0.346388470707097
+"train","Categorical MCEM-MMIL","IV","Undetermined","I",9,0.260910132388704,0.299872555522606
+"train","Categorical MCEM-MMIL","IV","Myeloid cells","I",564,0.16459755954298,0.298849438847769
+"train","Categorical MCEM-MMIL","IV","Epithelial cells","I",877,0.096426374357029,0.275489329752457
+"train","Categorical MCEM-MMIL","IV","Oligodendrocytes","I",9,0.0053450387928977,0.012043230286211
+"train","Categorical MCEM-MMIL","IV","Oligodendrocytes","II_III",9,0.268264315301278,0.481923391287465
+"train","Categorical MCEM-MMIL","IV","Fibroblasts","II_III",25,0.16909899733677,0.455188622865379
+"train","Categorical MCEM-MMIL","IV","Undetermined","II_III",9,0.00669799858327893,0.00796598978249302
+"train","Categorical MCEM-MMIL","IV","NK cells","II_III",126,0.00647594854780093,0.00751624609820414
+"train","Categorical MCEM-MMIL","IV","T lymphocytes","II_III",994,0.00638713133696275,0.00727981228961475
+"train","Categorical MCEM-MMIL","IV","B lymphocytes","II_III",422,0.00573452859955613,0.00670243250882896
+"train","Categorical MCEM-MMIL","IV","Myeloid cells","II_III",564,0.00509872425490535,0.00804300637683871
+"train","Categorical MCEM-MMIL","IV","MAST cells","II_III",14,0.00484878033917072,0.00627522802157294
+"train","Categorical MCEM-MMIL","IV","Epithelial cells","II_III",877,0.00247525542494696,0.00632365938517121
+"train","Categorical MCEM-MMIL","IV","Epithelial cells","IV",877,0.901098370218024,0.997396834947541
+"train","Categorical MCEM-MMIL","IV","Myeloid cells","IV",564,0.830303716202115,0.941734798706585
+"train","Categorical MCEM-MMIL","IV","Undetermined","IV",9,0.732391869028017,0.785192522129166
+"train","Categorical MCEM-MMIL","IV","Oligodendrocytes","IV",9,0.726390645905825,0.867524408793583
+"train","Categorical MCEM-MMIL","IV","NK cells","IV",126,0.716489527694731,0.789605118274109
+"train","Categorical MCEM-MMIL","IV","T lymphocytes","IV",994,0.633821533106006,0.723153765652633
+"train","Categorical MCEM-MMIL","IV","B lymphocytes","IV",422,0.633462344301525,0.721278813255566
+"train","Categorical MCEM-MMIL","IV","Fibroblasts","IV",25,0.445129434192407,0.720614986219735
+"train","Categorical MCEM-MMIL","IV","MAST cells","IV",14,0.0540752935516258,0.0881510852774217
+"train","Naive inherited-label classifier","I","Endothelial cells","I",32,0.639914682790723,0.756080544673824
+"train","Naive inherited-label classifier","I","MAST cells","I",33,0.541246980967642,0.601141793210862
+"train","Naive inherited-label classifier","I","B lymphocytes","I",298,0.390776989172432,0.435231209323648
+"train","Naive inherited-label classifier","I","T lymphocytes","I",737,0.385259370995791,0.432146613027863
+"train","Naive inherited-label classifier","I","Fibroblasts","I",24,0.362571868068731,0.447027622346
+"train","Naive inherited-label classifier","I","Undetermined","I",6,0.353263877821276,0.375717204174647
+"train","Naive inherited-label classifier","I","Epithelial cells","I",129,0.352593052576314,0.706943557387744
+"train","Naive inherited-label classifier","I","Myeloid cells","I",227,0.336589969667409,0.452248845119849
+"train","Naive inherited-label classifier","I","NK cells","I",84,0.308711171578126,0.352757468656623
+"train","Naive inherited-label classifier","I","Fibroblasts","II_III",24,0.405748739315964,0.616185469661946
+"train","Naive inherited-label classifier","I","NK cells","II_III",84,0.186144964124109,0.2123517761826
+"train","Naive inherited-label classifier","I","MAST cells","II_III",33,0.174453217580801,0.194936190244679
+"train","Naive inherited-label classifier","I","Myeloid cells","II_III",227,0.160589669371023,0.210877448540886
+"train","Naive inherited-label classifier","I","T lymphocytes","II_III",737,0.125235968572248,0.155018783705964
+"train","Naive inherited-label classifier","I","Undetermined","II_III",6,0.100780960891529,0.10738054861476
+"train","Naive inherited-label classifier","I","Epithelial cells","II_III",129,0.0969004771348658,0.158228684596891
+"train","Naive inherited-label classifier","I","B lymphocytes","II_III",298,0.0787866336123206,0.0955812899521254
+"train","Naive inherited-label classifier","I","Endothelial cells","II_III",32,0.0387312205888123,0.0712612555801533
+"train","Naive inherited-label classifier","I","Epithelial cells","IV",129,0.55050647028882,0.942292380172842
+"train","Naive inherited-label classifier","I","Undetermined","IV",6,0.545955161287196,0.571589617329717
+"train","Naive inherited-label classifier","I","B lymphocytes","IV",298,0.530436377215247,0.574281848648056
+"train","Naive inherited-label classifier","I","NK cells","IV",84,0.505143864297764,0.552111231113362
+"train","Naive inherited-label classifier","I","Myeloid cells","IV",227,0.502820360961568,0.699706407181778
+"train","Naive inherited-label classifier","I","T lymphocytes","IV",737,0.489504660431961,0.542166509406642
+"train","Naive inherited-label classifier","I","Endothelial cells","IV",32,0.321354096620465,0.446929313508395
+"train","Naive inherited-label classifier","I","MAST cells","IV",33,0.284299801451558,0.344052136130148
+"train","Naive inherited-label classifier","I","Fibroblasts","IV",24,0.231679392615305,0.495558674047404
+"train","Naive inherited-label classifier","II_III","Endothelial cells","I",3,0.616336433000783,0.63435133911073
+"train","Naive inherited-label classifier","II_III","MAST cells","I",10,0.515437843246061,0.547355566004808
+"train","Naive inherited-label classifier","II_III","Epithelial cells","I",39,0.394090978784327,0.753054583563647
+"train","Naive inherited-label classifier","II_III","T lymphocytes","I",256,0.371161784433979,0.420430386634798
+"train","Naive inherited-label classifier","II_III","B lymphocytes","I",62,0.353913672260064,0.40558295996558
+"train","Naive inherited-label classifier","II_III","Fibroblasts","I",31,0.350149596082723,0.453899442560082
+"train","Naive inherited-label classifier","II_III","Undetermined","I",1,0.339998587924799,0.339998587924799
+"train","Naive inherited-label classifier","II_III","Myeloid cells","I",121,0.317570016494499,0.456956605487312
+"train","Naive inherited-label classifier","II_III","NK cells","I",31,0.288911415925863,0.338710152984894
+"train","Naive inherited-label classifier","II_III","Oligodendrocytes","I",10,0.00981324295412866,0.0148497958162622
+"train","Naive inherited-label classifier","II_III","Fibroblasts","II_III",31,0.541126578424381,0.637667413210969
+"train","Naive inherited-label classifier","II_III","Oligodendrocytes","II_III",10,0.452220822437024,0.500583704871107
+"train","Naive inherited-label classifier","II_III","MAST cells","II_III",10,0.185872698109623,0.227098035093297
+"train","Naive inherited-label classifier","II_III","NK cells","II_III",31,0.163090280046235,0.186753155157904
+"train","Naive inherited-label classifier","II_III","Myeloid cells","II_III",121,0.151366637334199,0.210867239333909
+"train","Naive inherited-label classifier","II_III","T lymphocytes","II_III",256,0.134059101843907,0.164818759207376
+"train","Naive inherited-label classifier","II_III","Undetermined","II_III",1,0.0972933820947984,0.0972933820947984
+"train","Naive inherited-label classifier","II_III","Epithelial cells","II_III",39,0.0969582863928557,0.168099518818152
+"train","Naive inherited-label classifier","II_III","B lymphocytes","II_III",62,0.080673942501194,0.10013980913935
+"train","Naive inherited-label classifier","II_III","Endothelial cells","II_III",3,0.0380514853593036,0.0426931831007585
+"train","Naive inherited-label classifier","II_III","B lymphocytes","IV",62,0.565412385238742,0.617475089038965
+"train","Naive inherited-label classifier","II_III","Undetermined","IV",1,0.562708029980403,0.562708029980403
+"train","Naive inherited-label classifier","II_III","NK cells","IV",31,0.547998304027902,0.604455270029303
+"train","Naive inherited-label classifier","II_III","Oligodendrocytes","IV",10,0.537965934608847,0.60340386499665
+"train","Naive inherited-label classifier","II_III","Myeloid cells","IV",121,0.531063346171302,0.709629162008142
+"train","Naive inherited-label classifier","II_III","Epithelial cells","IV",39,0.508950734822817,0.913070503053431
+"train","Naive inherited-label classifier","II_III","T lymphocytes","IV",256,0.494779113722114,0.552781061016758
+"train","Naive inherited-label classifier","II_III","Endothelial cells","IV",3,0.345612081639913,0.360660657340656
+"train","Naive inherited-label classifier","II_III","MAST cells","IV",10,0.298689458644316,0.328488117209301
+"train","Naive inherited-label classifier","II_III","Fibroblasts","IV",31,0.108723825492896,0.181456811413874
+"train","Naive inherited-label classifier","IV","MAST cells","I",14,0.614430075581436,0.66968274503868
+"train","Naive inherited-label classifier","IV","Fibroblasts","I",25,0.414280172962166,0.610113621810601
+"train","Naive inherited-label classifier","IV","B lymphocytes","I",422,0.370531222639279,0.417580036857811
+"train","Naive inherited-label classifier","IV","T lymphocytes","I",994,0.35811291406587,0.402554661760708
+"train","Naive inherited-label classifier","IV","Undetermined","I",9,0.304017349451322,0.328563317345113
+"train","Naive inherited-label classifier","IV","NK cells","I",126,0.291189766565335,0.342999500716331
+"train","Naive inherited-label classifier","IV","Myeloid cells","I",564,0.215029808711691,0.280957175478802
+"train","Naive inherited-label classifier","IV","Epithelial cells","I",877,0.0941035984944498,0.195933692664259
+"train","Naive inherited-label classifier","IV","Oligodendrocytes","I",9,0.0133340316645045,0.0280366308207793
+"train","Naive inherited-label classifier","IV","Oligodendrocytes","II_III",9,0.357327481618489,0.480553767771788
+"train","Naive inherited-label classifier","IV","Fibroblasts","II_III",25,0.258325441357353,0.509383131490033
+"train","Naive inherited-label classifier","IV","MAST cells","II_III",14,0.18510227042352,0.210931307825472
+"train","Naive inherited-label classifier","IV","NK cells","II_III",126,0.155890669678168,0.191361617498971
+"train","Naive inherited-label classifier","IV","T lymphocytes","II_III",994,0.120563918136733,0.153714034306516
+"train","Naive inherited-label classifier","IV","Myeloid cells","II_III",564,0.112340162285813,0.158149182625848
+"train","Naive inherited-label classifier","IV","Undetermined","II_III",9,0.0970947177710209,0.109894211680419
+"train","Naive inherited-label classifier","IV","B lymphocytes","II_III",422,0.0730339447916245,0.0917481340716148
+"train","Naive inherited-label classifier","IV","Epithelial cells","II_III",877,0.0337898004576127,0.0896878301191542
+"train","Naive inherited-label classifier","IV","Epithelial cells","IV",877,0.872106601047937,0.979874463935274
+"train","Naive inherited-label classifier","IV","Myeloid cells","IV",564,0.672630029002495,0.773445813609892
+"train","Naive inherited-label classifier","IV","Oligodendrocytes","IV",9,0.629338486717006,0.725820179316764
+"train","Naive inherited-label classifier","IV","Undetermined","IV",9,0.598887932777657,0.643000202382564
+"train","Naive inherited-label classifier","IV","B lymphocytes","IV",422,0.556434832569097,0.609320427175687
+"train","Naive inherited-label classifier","IV","NK cells","IV",126,0.552919563756497,0.601690472171587
+"train","Naive inherited-label classifier","IV","T lymphocytes","IV",994,0.521323167797397,0.580093253498583
+"train","Naive inherited-label classifier","IV","Fibroblasts","IV",25,0.327394385680481,0.508046294339228
+"train","Naive inherited-label classifier","IV","MAST cells","IV",14,0.200467653995044,0.260480981706133

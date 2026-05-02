@@ -1,0 +1,4 @@
+"split","model","n_patients","multiclass_logloss","accuracy","balanced_accuracy","macro_f1","aggregation"
+"test","Categorical EM-MMIL",12,0.937461778942445,0.75,0.6,0.816666666666667,"q99_prob"
+"test","Categorical MCEM-MMIL",12,0.940007206671754,0.75,0.6,0.816666666666667,"q99_prob"
+"test","Naive inherited-label classifier",12,0.932273100459144,0.416666666666667,0.333333333333333,0.588235294117647,"q99_prob"

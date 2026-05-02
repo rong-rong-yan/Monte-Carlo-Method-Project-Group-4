@@ -1,0 +1,118 @@
+"split","model","aggregation","true_class","predicted_class","n_patients"
+"test","Categorical EM-MMIL","mean_prob","I","I",4
+"test","Categorical EM-MMIL","mean_prob","I","IV",1
+"test","Categorical EM-MMIL","mean_prob","II_III","I",1
+"test","Categorical EM-MMIL","mean_prob","II_III","IV",1
+"test","Categorical EM-MMIL","mean_prob","IV","IV",5
+"test","Categorical MCEM-MMIL","mean_prob","I","I",4
+"test","Categorical MCEM-MMIL","mean_prob","I","IV",1
+"test","Categorical MCEM-MMIL","mean_prob","II_III","I",1
+"test","Categorical MCEM-MMIL","mean_prob","II_III","IV",1
+"test","Categorical MCEM-MMIL","mean_prob","IV","IV",5
+"test","Naive inherited-label classifier","mean_prob","I","I",4
+"test","Naive inherited-label classifier","mean_prob","I","IV",1
+"test","Naive inherited-label classifier","mean_prob","II_III","I",1
+"test","Naive inherited-label classifier","mean_prob","II_III","IV",1
+"test","Naive inherited-label classifier","mean_prob","IV","IV",5
+"train","Categorical EM-MMIL","mean_prob","I","I",11
+"train","Categorical EM-MMIL","mean_prob","I","IV",1
+"train","Categorical EM-MMIL","mean_prob","II_III","I",3
+"train","Categorical EM-MMIL","mean_prob","II_III","IV",2
+"train","Categorical EM-MMIL","mean_prob","IV","IV",15
+"train","Categorical MCEM-MMIL","mean_prob","I","I",11
+"train","Categorical MCEM-MMIL","mean_prob","I","IV",1
+"train","Categorical MCEM-MMIL","mean_prob","II_III","I",3
+"train","Categorical MCEM-MMIL","mean_prob","II_III","IV",2
+"train","Categorical MCEM-MMIL","mean_prob","IV","IV",15
+"train","Naive inherited-label classifier","mean_prob","I","I",11
+"train","Naive inherited-label classifier","mean_prob","I","IV",1
+"train","Naive inherited-label classifier","mean_prob","II_III","I",2
+"train","Naive inherited-label classifier","mean_prob","II_III","II_III",2
+"train","Naive inherited-label classifier","mean_prob","II_III","IV",1
+"train","Naive inherited-label classifier","mean_prob","IV","IV",15
+"test","Categorical EM-MMIL","median_prob","I","I",4
+"test","Categorical EM-MMIL","median_prob","I","IV",1
+"test","Categorical EM-MMIL","median_prob","II_III","I",1
+"test","Categorical EM-MMIL","median_prob","II_III","IV",1
+"test","Categorical EM-MMIL","median_prob","IV","IV",5
+"test","Categorical MCEM-MMIL","median_prob","I","I",4
+"test","Categorical MCEM-MMIL","median_prob","I","IV",1
+"test","Categorical MCEM-MMIL","median_prob","II_III","I",1
+"test","Categorical MCEM-MMIL","median_prob","II_III","IV",1
+"test","Categorical MCEM-MMIL","median_prob","IV","IV",5
+"test","Naive inherited-label classifier","median_prob","I","I",4
+"test","Naive inherited-label classifier","median_prob","I","IV",1
+"test","Naive inherited-label classifier","median_prob","II_III","I",1
+"test","Naive inherited-label classifier","median_prob","II_III","IV",1
+"test","Naive inherited-label classifier","median_prob","IV","IV",5
+"train","Categorical EM-MMIL","median_prob","I","I",11
+"train","Categorical EM-MMIL","median_prob","I","IV",1
+"train","Categorical EM-MMIL","median_prob","II_III","I",4
+"train","Categorical EM-MMIL","median_prob","II_III","IV",1
+"train","Categorical EM-MMIL","median_prob","IV","IV",15
+"train","Categorical MCEM-MMIL","median_prob","I","I",11
+"train","Categorical MCEM-MMIL","median_prob","I","IV",1
+"train","Categorical MCEM-MMIL","median_prob","II_III","I",4
+"train","Categorical MCEM-MMIL","median_prob","II_III","IV",1
+"train","Categorical MCEM-MMIL","median_prob","IV","IV",15
+"train","Naive inherited-label classifier","median_prob","I","I",12
+"train","Naive inherited-label classifier","median_prob","II_III","I",4
+"train","Naive inherited-label classifier","median_prob","II_III","IV",1
+"train","Naive inherited-label classifier","median_prob","IV","IV",15
+"test","Categorical EM-MMIL","q90_prob","I","I",4
+"test","Categorical EM-MMIL","q90_prob","I","IV",1
+"test","Categorical EM-MMIL","q90_prob","II_III","I",1
+"test","Categorical EM-MMIL","q90_prob","II_III","IV",1
+"test","Categorical EM-MMIL","q90_prob","IV","IV",5
+"test","Categorical MCEM-MMIL","q90_prob","I","I",4
+"test","Categorical MCEM-MMIL","q90_prob","I","IV",1
+"test","Categorical MCEM-MMIL","q90_prob","II_III","I",1
+"test","Categorical MCEM-MMIL","q90_prob","II_III","IV",1
+"test","Categorical MCEM-MMIL","q90_prob","IV","IV",5
+"test","Naive inherited-label classifier","q90_prob","I","I",4
+"test","Naive inherited-label classifier","q90_prob","I","IV",1
+"test","Naive inherited-label classifier","q90_prob","II_III","I",1
+"test","Naive inherited-label classifier","q90_prob","II_III","IV",1
+"test","Naive inherited-label classifier","q90_prob","IV","IV",5
+"train","Categorical EM-MMIL","q90_prob","I","I",11
+"train","Categorical EM-MMIL","q90_prob","I","IV",1
+"train","Categorical EM-MMIL","q90_prob","II_III","I",3
+"train","Categorical EM-MMIL","q90_prob","II_III","IV",2
+"train","Categorical EM-MMIL","q90_prob","IV","IV",15
+"train","Categorical MCEM-MMIL","q90_prob","I","I",11
+"train","Categorical MCEM-MMIL","q90_prob","I","IV",1
+"train","Categorical MCEM-MMIL","q90_prob","II_III","I",3
+"train","Categorical MCEM-MMIL","q90_prob","II_III","IV",2
+"train","Categorical MCEM-MMIL","q90_prob","IV","IV",15
+"train","Naive inherited-label classifier","q90_prob","I","I",11
+"train","Naive inherited-label classifier","q90_prob","I","IV",1
+"train","Naive inherited-label classifier","q90_prob","II_III","I",3
+"train","Naive inherited-label classifier","q90_prob","II_III","IV",2
+"train","Naive inherited-label classifier","q90_prob","IV","IV",15
+"test","Categorical EM-MMIL","q99_prob","I","I",3
+"test","Categorical EM-MMIL","q99_prob","I","IV",2
+"test","Categorical EM-MMIL","q99_prob","II_III","IV",2
+"test","Categorical EM-MMIL","q99_prob","IV","IV",5
+"test","Categorical MCEM-MMIL","q99_prob","I","I",4
+"test","Categorical MCEM-MMIL","q99_prob","I","IV",1
+"test","Categorical MCEM-MMIL","q99_prob","II_III","IV",2
+"test","Categorical MCEM-MMIL","q99_prob","IV","IV",5
+"test","Naive inherited-label classifier","q99_prob","I","I",3
+"test","Naive inherited-label classifier","q99_prob","I","IV",2
+"test","Naive inherited-label classifier","q99_prob","II_III","IV",2
+"test","Naive inherited-label classifier","q99_prob","IV","IV",5
+"train","Categorical EM-MMIL","q99_prob","I","I",11
+"train","Categorical EM-MMIL","q99_prob","I","IV",1
+"train","Categorical EM-MMIL","q99_prob","II_III","I",3
+"train","Categorical EM-MMIL","q99_prob","II_III","IV",2
+"train","Categorical EM-MMIL","q99_prob","IV","IV",15
+"train","Categorical MCEM-MMIL","q99_prob","I","I",11
+"train","Categorical MCEM-MMIL","q99_prob","I","IV",1
+"train","Categorical MCEM-MMIL","q99_prob","II_III","I",3
+"train","Categorical MCEM-MMIL","q99_prob","II_III","IV",2
+"train","Categorical MCEM-MMIL","q99_prob","IV","IV",15
+"train","Naive inherited-label classifier","q99_prob","I","I",9
+"train","Naive inherited-label classifier","q99_prob","I","IV",3
+"train","Naive inherited-label classifier","q99_prob","II_III","I",1
+"train","Naive inherited-label classifier","q99_prob","II_III","IV",4
+"train","Naive inherited-label classifier","q99_prob","IV","IV",15
