@@ -23,9 +23,9 @@
 ############################################################
 
 project:
-  proj_dir: "D:/Monte/Monte-Carlo-Method-Project-Group-4"
-  in_dir: "D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Input"
-  out_dir: "D:/Monte/Monte-Carlo-Method-Project-Group-4/Abalation/Output"
+  proj_dir: "."
+  in_dir: "Input"
+  out_dir: "Output"
 
   expr_file: "GSE131907_pilot_expression_subset_dt.rds"
   meta_file: "GSE131907_pilot_sampled_cell_metadata_with_clinical.csv"
@@ -105,7 +105,7 @@ features:
   methods:
     - PCA
     - ICA
-    #- NMF
+    - NMF
 
   n_components:
     - 10
