@@ -1,9 +1,14 @@
 ############################################################
 # setup_packages.R
 # One-time install of all packages required by the pipeline.
-# Run interactively:
+#
+# Usage:
 #   Rscript R/setup_packages.R
-# or source() it from an R session.
+#
+# This script is idempotent: it skips packages that are already
+# installed, installs Bioconductor and CRAN packages in the
+# correct order, verifies every package can be loaded, and
+# fails loudly with a non-zero exit code if anything is broken.
 ############################################################
 
 cran_pkgs <- c(
@@ -11,6 +16,7 @@ cran_pkgs <- c(
   "dplyr",
   "tidyr",
   "ggplot2",
+  "scales",        # used by Visualization/visualize_abalation.R
   "yaml",
   "readr",
   "pROC",
@@ -18,7 +24,7 @@ cran_pkgs <- c(
   "xgboost",
   "fastICA",
   "nnls",
-  "BiocManager"   # needed to fetch Biobase
+  "BiocManager"    # needed to fetch Biobase
 )
 
 is_installed <- function(pkg) {
@@ -48,9 +54,7 @@ if (length(to_install) > 0) {
 }
 
 ############################################################
-# 2. Biobase from Bioconductor
-#    NMF depends on Biobase, which is NOT on CRAN.
-#    Must be installed via BiocManager.
+# 2. Biobase from Bioconductor (required by NMF)
 ############################################################
 
 if (!is_installed("Biobase")) {
@@ -68,8 +72,7 @@ if (!is_installed("NMF")) {
 }
 
 ############################################################
-# 4. Verify everything is installed AND loadable.
-#    "Installed but not loadable" usually means a dep is missing.
+# 4. Verify and report
 ############################################################
 
 all_pkgs <- c(cran_pkgs, "Biobase", "NMF")
@@ -78,16 +81,42 @@ status_df <- data.frame(
   package   = all_pkgs,
   installed = sapply(all_pkgs, is_installed),
   loadable  = sapply(all_pkgs, is_loadable),
+  version   = sapply(all_pkgs, function(p) {
+    if (is_installed(p)) {
+      as.character(packageVersion(p))
+    } else {
+      NA_character_
+    }
+  }),
   stringsAsFactors = FALSE,
   row.names = NULL
 )
 
-cat("\nInstall check:\n")
+cat("\nR version: ", R.version.string, "\n", sep = "")
+cat("Platform:  ", R.version$platform,   "\n\n", sep = "")
+cat("Install check:\n")
 print(status_df)
 
-if (any(!status_df$loadable)) {
-  cat("\nWARNING: some packages are not loadable. ",
-      "Look at rows where loadable = FALSE above.\n", sep = "")
-} else {
-  cat("\nAll packages installed and loadable.\n")
+############################################################
+# 5. Fail loudly if anything is broken
+############################################################
+
+broken <- status_df$package[!status_df$loadable]
+
+if (length(broken) > 0) {
+  cat(
+    "\nERROR: the following packages are not loadable:\n  ",
+    paste(broken, collapse = ", "),
+    "\n\nThe pipeline will not run until these are fixed.\n",
+    "Common causes:\n",
+    "  - missing system libraries (a C/C++/Fortran compiler on Mac/Linux)\n",
+    "  - a failed Bioconductor install (Biobase blocking NMF)\n",
+    "  - a network failure during install.packages()\n\n",
+    "Try re-running this script. If it still fails, check the\n",
+    "install.packages() output above for the underlying error.\n",
+    sep = ""
+  )
+  quit(status = 1)
 }
+
+cat("\nAll packages installed and loadable. Environment is ready.\n")
